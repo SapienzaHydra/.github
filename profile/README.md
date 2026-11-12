@@ -2,9 +2,9 @@
   <img src="logo.png" alt="Hydra" width="160">
 </p>
 
-<h3 align="center">Sapienza Hydra</h3>
+<h3 align="center">Hydra Racing Team</h3>
 
-<p align="center">Il veicolo a idrogeno del team Hydra — Sapienza Università di Roma</p>
+<p align="center">Il veicolo a idrogeno della Sapienza Università di Roma</p>
 
 ---
 
