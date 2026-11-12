@@ -1,0 +1,21 @@
+<p align="center">
+  <img src="logo.png" alt="Hydra" width="160">
+</p>
+
+<h3 align="center">Sapienza Hydra</h3>
+
+<p align="center">Il veicolo a idrogeno del team Hydra — Sapienza Università di Roma</p>
+
+---
+
+### Repository
+
+| Repo | Contenuto |
+|---|---|
+| **firmware** | Firmware di bordo (ESP32, PlatformIO): cruscotto e librerie condivise tra le schede |
+
+### Come contribuire
+
+1. Chiedi a un admin di essere aggiunto all'organizzazione.
+2. Lavora su un branch e apri una Pull Request verso `main`.
+3. Si fa merge solo con la CI verde.
