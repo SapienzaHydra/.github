@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Hydra" width="160">
+  <img src="hydra-racing-team.png" alt="Hydra Racing Team" width="160">
 </p>
 
 <h3 align="center">Hydra Racing Team</h3>
