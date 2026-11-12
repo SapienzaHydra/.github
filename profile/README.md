@@ -49,7 +49,7 @@ Il nostro obiettivo non è la velocità pura, ma l'**efficienza energetica**: pe
 
 ### 👥 Il team
 
-**25 studenti, un obiettivo comune.** Un team multidisciplinare diviso in tre aree:
+**57 studenti, un obiettivo comune.** Un team multidisciplinare diviso in tre aree:
 
 - **Ingegneria** — meccanica, elettronica, fuel cell, aerodinamica, simulazioni e testing
 - **Management** — coordinamento, fundraising, relazioni con sponsor e istituzioni
